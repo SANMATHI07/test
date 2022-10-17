@@ -5,10 +5,7 @@ Pipeline
      stage ('build')
          {
          }
-         stage('test')
-           {
-           }
-           stage('test')
+        stage('test')
              {
              }
               stage('deploy')
